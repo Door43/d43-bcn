@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcn:home|Door43 (bcn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcn|d43-bcn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcn/archive/master.zip|d43-bcn.zip]]
+
+**Recent Changes**
+{{changes>ns = bcn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcn|Ethnologue data]]
+
